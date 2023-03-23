@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "fullName": "Burhan Shaban",
+      "address": "north Macedonia-skopje",
+      "phoneNumber": "+389-70-326-877",
+      "email": "Burhanshbniwebdev@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Seyhmus Sevim",
+      "address": "north Macedonia-skopje",
+      "phoneNumber": "+389-71-377-447",
+      "email": "sevimseyhmuss@gmail.com"
+    }
+
+  ]
